@@ -36,6 +36,7 @@ Content-Length: 54
 command=isExist&userName=123';waitfor delay '0:0:5'-- q
 ```
 Prove the existence of injection through sqlmap
+
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/f6c8bac3-218c-499b-9f46-24395624dcfc" />
 
 ## code analysis:
